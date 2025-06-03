@@ -2,7 +2,7 @@
 Combining 3D brain MRI and Tabular Data for 3D Tumor Segmentation , Tumor type , genomic analysis and prognosis prediction
 # Multi-Input 3D Brain Tumor Segmentation and Classification Model
 
-This repository contains code and architecture for a deep learning model that performs **3D brain tumor segmentation** using multimodal inputs — 3D MRI volumes and tabular clinical data. The model also predicts **five classification outputs** related to patient-level diagnosis , prognosis and genomics .
+This repository contains code and architecture for a deep learning model that performs **3D brain tumor segmentation and radiogenomic analysis** using multimodal inputs — 3D MRI volumes and tabular clinical data. The model also predicts **five classification outputs** related to patient-level diagnosis , prognosis and genomics .
 
 ---
 
