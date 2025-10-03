@@ -16,6 +16,6 @@ This repository contains code and architecture for a deep learning model that pe
   - Tabular patient data (CSV)
 - **Outputs**:
   - Binary 3D segmentation mask
-  - Five classification heads ( tumor type, mutation status, relapse)
+  - Five classification heads ( tumor type,tumor grade, IDH status,MGMT status , relapse)
 
 ---
